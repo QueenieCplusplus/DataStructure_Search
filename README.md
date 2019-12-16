@@ -11,3 +11,5 @@ A sorted file can be searched using a Binary Tree.
                            do  return | while
 
 To find an optimal binary search tree for a given static file, we shall decide on a cost measure for this tree.
+
+When searching for an id at level q, function search makes q iteratins of the for loop.
