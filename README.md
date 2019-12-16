@@ -8,6 +8,6 @@ A sorted file can be searched using a Binary Tree.
 
                               if
                              /  \
-                           do  return
+                           do  return | while
 
 
