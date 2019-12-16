@@ -6,3 +6,8 @@ Binary Search Tree is for a static set of ids. That is, we make no additons to o
 A sorted file can be searched using a Binary Tree.
 
 
+                              if
+                             /  \
+                           do  return
+
+
